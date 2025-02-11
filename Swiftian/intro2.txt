@@ -1,0 +1,5 @@
+Okay, first stop—the Tutorial section! This is where the magic starts. If you’re new to coding, don’t worry—I got you! We’ll start with Swift-like syntax, getting you comfortable with the basics, and then smoothly transition into iOS-specific programming.
+
+You’ll learn step by step, coding along the way instead of just reading about it. Ever wondered how real apps work? Well, now you can actually try it. You won’t just memorize syntax—you’ll understand why things work the way they do.
+
+By the time you finish, iOS coding won’t feel like a mystery anymore. You’ll have the confidence to start making something real. And guess what? That leads us to the next part!

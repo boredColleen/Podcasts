@@ -1,0 +1,5 @@
+Hey there! Welcome to Swiftian—your new best friend for learning how to code and actually building something real. Coding can feel overwhelming, right? You need a MacBook, tons of tutorials, and hours of practice before even thinking about launching an app. And let’s be real, those “no-code” tools? They’re fun but not real coding. They just let you mix and match pre-built stuff.
+
+That’s why Swiftian exists. It’s not just about learning Swift—it’s about experiencing iOS development hands-on, in a way that makes sense. Whether you want to prototype your own app, practice coding in a structured way, or just have fun experimenting, this is the place to do it.
+
+Let’s take a tour of the four main sections!

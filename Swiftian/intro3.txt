@@ -1,0 +1,8 @@
+Alright, so you’ve gone through the tutorial, learned the ropes… now what? Time to break free and code on your own!
+
+This is where File Explorer comes in. Think of it as your personal coding space—a playground where you can experiment, break things, and build whatever you want.
+
+You can import functions you wrote in the tutorial and use them in your own projects. Wanna make a mini-game? A simple utility app? Go for it! You’re not just following instructions anymore—you’re coding like a real developer.
+
+And here’s the cool part: this space is only going to get bigger and better. Future updates will let you connect this with Other Features for even more advanced tools.
+

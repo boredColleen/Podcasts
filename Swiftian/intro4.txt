@@ -1,0 +1,4 @@
+Okay, now for the final piece—the Other Features section. This is where the advanced stuff and settings live. Right now, some of it is still under development, but trust me, we have some exciting things planned.
+
+This will be the place for customizing your coding experience, adding advanced functionalities, and maybe even tweaking how Swiftian itself works. So yeah, it’s a little mysterious for now, but that’s what makes it exciting!
+
